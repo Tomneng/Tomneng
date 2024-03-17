@@ -21,12 +21,12 @@
   <img src="https://img.shields.io/badge/jQuery-0769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/MyBatis-1F232A.svg?style=for-the-badge&logo=mybatis&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Express-000000.svg?style=for-the-badge&logo=express&logoColor=white" />&nbsp
 </div>
 
 <br>
 <h3 align="center"> Studying </h3>
 <div align="center">
-  <img src="https://img.shields.io/badge/Express-000000.svg?style=for-the-badge&logo=express&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/AWS--EC2-232F3E.svg?style=for-the-badge&logo=amazonec2&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/AWS--RDS-232F3E.svg?style=for-the-badge&logo=amazonrds&logoColor=white" />&nbsp
 </div>
