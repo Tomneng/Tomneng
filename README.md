@@ -5,7 +5,7 @@
   <img src="https://img.shields.io/badge/java-20232a.svg?style=for-the-badge&logo=java&logoColor=61DAFB" />&nbsp
   <img src="https://img.shields.io/badge/Spring-F7DF1E.svg?style=for-the-badge&logo=spring&logoColor=20232a" />&nbsp
   <img src="https://img.shields.io/badge/Springboot-F7DF1E.svg?style=for-the-badge&logo=springboot&logoColor=20232a" />&nbsp
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />&nbsp
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />&nbsp
 </div>
 
 <div align="center">
