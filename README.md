@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/Tomneng/Tomneng/assets/151795437/aabf505b-9dcd-42f0-8c5d-a85f895bdb81" />
+  <img src="https://github.com/Tomneng/Tomneng/assets/151795437/ffe9657b-03d3-4282-b956-04c985ff7405" />
 </div>
 
 
