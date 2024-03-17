@@ -1,4 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=venom&color=852fac&fontcolor=000000&height=300&section=header&text=Welcome%20To%20Tomneng's%20GitHub&fontSize=50)
+<div align="center">
+  <img src="https://github.com/Tomneng/Tomneng/assets/151795437/aabf505b-9dcd-42f0-8c5d-a85f895bdb81" />
+</div>
 
 
 <!--
