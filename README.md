@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center" style="width: 700;height:300;">
   <img src="https://github.com/Tomneng/Tomneng/assets/151795437/ffe9657b-03d3-4282-b956-04c985ff7405" />
 </div>
 
