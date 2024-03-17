@@ -27,9 +27,23 @@
 <h3 align="center"> Studying </h3>
 <div align="center">
   <img src="https://img.shields.io/badge/Express-000000.svg?style=for-the-badge&logo=express&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/AWS--EC2-232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/AWS--RDS-232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/AWS--EC2-232F3E.svg?style=for-the-badge&logo=amazonec2&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/AWS--RDS-232F3E.svg?style=for-the-badge&logo=amazonrds&logoColor=white" />&nbsp
 </div>
+
+<br>
+<h3 align="center"> Tools </h3>
+<div align="center">
+  <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp
+<img src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white" />&nbsp
+<img src="https://img.shields.io/badge/Visual Studio Code-007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />&nbsp
+<img src="https://img.shields.io/badge/IntelliJ IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />&nbsp
+<img src="https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white" />&nbsp
+<img src="https://img.shields.io/badge/Notion-000000.svg?style=for-the-badge&logo=notion&logoColor=white" />&nbsp
+
+</div>
+
+
 
 <hr/>
 
