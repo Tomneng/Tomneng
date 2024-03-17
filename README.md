@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcom%20To%20Tomneng'Github/?color=000000;Second+line+of+text)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcom%20To%20Tomneng'Github?color=000000;)](https://git.io/typing-svg)
 
 <!--
 **Tomneng/Tomneng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
