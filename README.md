@@ -1,8 +1,4 @@
-<div align="center" width="700" height="300" background-image=cover>
-  <img src="https://github.com/Tomneng/Tomneng/assets/151795437/ffe9657b-03d3-4282-b956-04c985ff7405" />
-</div>
-
-
+![header](https://capsule-render.vercel.app/api?type=venom&color=852fac&fontcolor=000000&height=300&section=header&text=Welcome%20To%20Tomneng's%20GitHub&fontSize=50)
 <!--
 **Tomneng/Tomneng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
