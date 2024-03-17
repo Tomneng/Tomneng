@@ -5,7 +5,7 @@
   <img src="https://img.shields.io/badge/java-20232a.svg?style=for-the-badge&logo=java&logoColor=61DAFB" />&nbsp
   <img src="https://img.shields.io/badge/Spring-F7DF1E.svg?style=for-the-badge&logo=spring&logoColor=20232a" />&nbsp
   <img src="https://img.shields.io/badge/JavaScript-grey?style=for-the-badge&logo=javascript&logoColor=#F7DF1E" />&nbsp
-  <img src="https://img.shields.io/badge/MySQL-#4479A1?style=for-the-badge&logo=mysql&logoColor=000000" />&nbsp
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=000000" />&nbsp
 </div>
 
 <hr/>
