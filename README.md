@@ -14,15 +14,15 @@
   <img src="https://img.shields.io/badge/Thymeleaf-1daabb.svg?style=for-the-badge&logo=thymeleaf&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/HTML5-1572B6.svg?style=for-the-badge&logo=html5&logoColor=white" />&nbsp
-
+<img src="https://img.shields.io/badge/MyBatis-4d77cf.svg?style=for-the-badge&" />&nbsp
 </div>
 
 <div align="center">
   <img src="https://img.shields.io/badge/Node.js-white?style=for-the-badge&logo=nodedotjs&logoColor=#339933" />&nbsp
   <img src="https://img.shields.io/badge/jQuery-150458.svg?style=for-the-badge&logo=jquery&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Express-4d77cf.svg?style=for-the-badge&logo=express&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/MyBatis-4d77cf.svg?style=for-the-badge&" />&nbsp
-
+  <img src="https://img.shields.io/badge/AWS--EC2-4d77cf.svg?style=for-the-badge&logo=amazonec2&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/AWS--RDS-4d77cf.svg?style=for-the-badge&logo=amazonrds&logoColor=white" />&nbsp
 </div>
 
 <hr/>
