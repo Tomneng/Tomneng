@@ -1,12 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&color=852fac&fontcolor=000000&height=300&section=header&text=Welcome%20To%20Kch's%20GitHub&fontSize=50)
 
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tomneng&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tomneng&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Tomneng&repo=INSeoulProject&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Tomneng&repo=DevBox&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp
@@ -28,6 +21,16 @@
   <img src="https://img.shields.io/badge/numpy-4d77cf.svg?style=for-the-badge&logo=numpy&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Matplotlib-11557c.svg?style=for-the-badge&logo=Matplotlib&logoColor=white" />&nbsp
 </div>
+
+<hr/>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tomneng&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tomneng&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Tomneng&repo=INSeoulProject&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Tomneng&repo=DevBox&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
 
 
 <!--
