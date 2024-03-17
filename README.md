@@ -4,6 +4,7 @@
 <div align="center">
   <img src="https://img.shields.io/badge/java-20232a.svg?style=for-the-badge&logo=java&logoColor=61DAFB" />&nbsp
   <img src="https://img.shields.io/badge/Spring-F7DF1E.svg?style=for-the-badge&logo=spring&logoColor=20232a" />&nbsp
+  <img src="https://img.shields.io/badge/Spring Security-F7DF1E.svg?style=for-the-badge&logo=springsecurity&logoColor=20232a" />&nbsp
   <img src="https://img.shields.io/badge/JavaScript-grey?style=for-the-badge&logo=javascript&logoColor=#F7DF1E" />&nbsp
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=000000" />&nbsp
 </div>
@@ -12,13 +13,16 @@
   <img src="https://img.shields.io/badge/React-DB7093?style=for-the-badge&logo=react&logoColor=ffd35b" />&nbsp
   <img src="https://img.shields.io/badge/Thymeleaf-1daabb.svg?style=for-the-badge&logo=thymeleaf&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/HTML5-1572B6.svg?style=for-the-badge&logo=html5&logoColor=white" />&nbsp
+
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/node.js-white?style=for-the-badge&logo=nodedotjs&logoColor=#339933" />&nbsp
-  <img src="https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/numpy-4d77cf.svg?style=for-the-badge&logo=numpy&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Matplotlib-11557c.svg?style=for-the-badge&logo=Matplotlib&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Node.js-white?style=for-the-badge&logo=nodedotjs&logoColor=#339933" />&nbsp
+  <img src="https://img.shields.io/badge/jQuery-150458.svg?style=for-the-badge&logo=jquery&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Express-4d77cf.svg?style=for-the-badge&logo=express&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/MyBatis-4d77cf.svg?style=for-the-badge&" />&nbsp
+
 </div>
 
 <hr/>
