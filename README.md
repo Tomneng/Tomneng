@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=ok?First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=ok)](https://git.io/typing-svg)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
